@@ -1,0 +1,1444 @@
+[
+	{
+		"id": 1,
+		"slug": "Entradas",
+		"prettyName": "Entradas",
+		"description": "",
+		"plates": [
+			{
+				"name": "Dip de espinaca",
+				"description": "Espinaca, queso, focaccia.",
+				"price": 435
+			},
+			
+			{
+				"name": "Taquitos de pollo",
+				"description": "3 Tortillas Mexicana y pollo",
+				"price": 330
+			},
+			{
+				"name": "Taquitos de res",
+				"description": "3 Tortillas Mexicana y res",
+				"price": 330
+			},
+			{
+				"name": "Taquitos de camarones",
+				"description": "3 Tortillas Mexicana y camarones.",
+				"price": 370
+			},
+			{
+				"name": "Taquitos mixto",
+				"description": "3 Tortillas Mexicana, pollo, res y camarones.",
+				"price": 375
+			},
+			{
+				"name": "Croqueta de costilla",
+				"description": "Carne tierna de cerdo, salsa blue ches.",
+				"price": 400
+			},
+			{
+				"name": "Tacos de birria",
+				"description": "Carne mechada, guacamole, jugo de la carne.",
+				"price": 380
+			}
+			,
+			{
+				"name": "Camarones durmientes",
+				"description": "Camarones, tocineta, salsa agridulce.",
+				"price": 390
+			}
+			,
+			{
+				"name": "Berenjena boloñesa",
+				"description": "Queso, berenjena.",
+				"price": 345
+			}
+			,
+			{
+				"name": "Canastica 89",
+				"description": "Plátanos, pollo, res, cerdo, camarones y pulpo.",
+				"price": 349
+			}
+			,
+			{
+				"name": "Alitas",
+				"description": "4 alitas salsa BBQ o al búfalo.",
+				"price": 235
+			}
+			,
+			{
+				"name": "Spring roll 89",
+				"description": "Masa egg rolls, pollo y salsa teriyaki.",
+				"price": 350
+			}
+			,
+			{
+				"name": "Mejillones al tiempo",
+				"description": "Mejillones al grill, salsa 89.",
+				"price": 400
+			}
+			
+		]
+	},
+	{
+		"id": 2,
+		"slug": "Carnes",
+		"prettyName": "Carnes",
+		"description": "Fresh and healthy salads made with seasonal ingredients.",
+		"plates": [
+			{
+				"name": "Churrasco angus",
+				"description": "corte angus 10 onza, yuca mash, vegetales salteado.",
+				"price": 1600
+			},
+			{
+				"name": "Churrasco al maduro",
+				"description": "Churrasco 10 onz, plátano maduro, salsa de queso.",
+				"price": 1680
+			},
+			{
+				"name": "Rib Eye 12 Onza",
+				"description": "Papas baby, ensalada verde, salsa 89.",
+				"price": 2650
+			},
+			{
+				"name": "Sirloin steak",
+				"description": "8 onz de corte angus sirloin, risotto parmesano.",
+				"price": 1350
+			},
+			{
+				"name": "Lomo Salteado",
+				"description": "Lomo, vegetales al vapor.",
+				"price": 675
+			},
+			{
+				"name": "Pechuga al grill",
+				"description": "filete de pechuga, guarnición de su preferencia, salsa 89.",
+				"price": 690
+			},
+			{
+				"name": "Pechuga al maduro",
+				"description": "Filete, plátano maduro, salsa de queso.",
+				"price": 750
+			},
+			{
+				"name": "Pechuga a la cordon bleu",
+				"description": "pechuga empanizada rellena de queso y jamon, con nuestra salsa de queso mozzarella.",
+				"price": 750
+			},
+			{
+				"name": "Filete de cerdo grill",
+				"description": "guarnición de su preferencia.",
+				"price": 650
+			},
+			{
+				"name": "Costilla a la BBQ",
+				"description": "guarnición de su preferencia.",
+				"price": 725
+			},
+			{
+				"name": "Costilla de cordero",
+				"description": "guarnición de su preferencia.",
+				"price": 1975
+			},
+			{
+				"name": "Rompe llama",
+				"description": "Filete de res, camarones, tocino, salsa de hongo.",
+				"price": 1600
+			},
+			{
+				"name": "Alitas BBQ o al búfalo",
+				"description": "6 alitas, guarnición de su preferencia.",
+				"price": 495
+			},
+			{
+				"name": "Tomahawk de res por Libra",
+				"description": "3 guarnición de su preferencia.",
+				"price": 2850
+			}
+		]
+	},
+	{
+		"id": 3,
+		"slug": "Parrillada",
+		"prettyName": "Parrillada",
+		"description": "Warm up with one of our delicious soups.",
+		"plates": [
+			{
+				"name": "Mar y tierra para dos (2)",
+				"description": "Pulpo, filete, camarones, mejillones, costilla BBQ, Salchicha.",
+				"price": 2350
+			},
+			{
+				"name": "Carne personal",
+				"description": "Pechuga, res, cerdo, costillita, Salchicha.",
+				"price": 1400
+			},
+			{
+				"name": "Marisco para dos (2)",
+				"description": "Pulpo, langostino, camarones, mejillones, mulo de cangrejo, camalares.",
+				"price": 2350
+			}
+		]
+	},
+	{
+		"id": 4,
+		"slug": "Pescados y mariscos",
+		"prettyName": "Pescados y mariscos",
+		"description": "Savor the flavors of our exquisite first courses.",
+		"plates": [
+			{
+				"name": "Pulpo (a la brasa o a la criolla)",
+				"description": "Tomates cherry, papa baby, cebolla baby.",
+				"price": 975
+			},
+			{
+				"name": "Salmon al Grill",
+				"description": "Guarnición de su preferencia.",
+				"price": 890
+			},
+			{
+				"name": "Pescado a la 89",
+				"description": "Pescado al horno, camarones al ajillo.",
+				"price": 1350
+			},
+			{
+				"name": "Pescado frito (Al coco, criolla, boca chica o crema)",
+				"description": "Guarnición de su preferencia.",
+				"price": 1150
+			},
+			{
+				"name": "Lubina al vino",
+				"description": "Papas salteada, espárragos.",
+				"price": 1500
+			},
+			{
+				"name": "Camarones (A la crema, criolla o ajillo)",
+				"description": "Guarnición de su preferencia.",
+				"price": 615
+			},
+			{
+				"name": "Langosta, o bogavante por Libra",
+				"description": "(A la criolla, crema y grill ).",
+				"price": 1500
+			},
+			{
+				"name": "Ceviche de pulpo y camarones",
+				"description": "camarones, pulpo, cilantro.",
+				"price": 780
+			},
+			{
+				"name": "lambí boca chica",
+				"description": "lambí.",
+				"price": 1150
+			}
+		]
+	},
+	{
+		"id": 5,
+		"slug": "Paellas y arroz",
+		"prettyName": "Paellas y arroz",
+		"description": "Indulge in our hearty and satisfying main courses.",
+		"plates": [
+			{
+				"name": "Paella de marisco para 2",
+				"description": "Pulpo, camarones, mejillones y calamar.",
+				"price": 2200
+			},
+			{
+				"name": "Paella de carne para 2",
+				"description": "Pollo, res, cerdo.",
+				"price": 1750
+			},
+			{
+				"name": "Paella de chicharrón para 2",
+				"description": "pork belly, mayonesa de ajo, guacamole.",
+				"price": 1880
+			},
+			{
+				"name": "Arroz frito de camarones",
+				"description": "Arroz crocante, vegetales, camarones.",
+				"price": 650
+			},
+			{
+				"name": "Rissoto de camarones",
+				"description": "Curry, camarones.",
+				"price": 700
+			},
+			{
+				"name": "Rissoto de chivo",
+				"description": "chivo, reduccion de vino.",
+				"price": 795
+			}
+		]
+	},
+	{
+		"id": 6,
+		"slug": "Hamburguesas",
+		"prettyName": "Hamburguesas",
+		"description": "Complement your meal with our delightful side dishes.",
+		"plates": [
+			{
+				"name": "Hamburguesa 89",
+				"description": "Queso, carne, vegetales, huevo, plantano, salsa 89.",
+				"price": 515
+			},
+			{
+				"name": "Hamburguesa angus",
+				"description": "Carne angus, cebolla caramelizada, queso cabra.",
+				"price": 545
+			},
+			{
+				"name": "Hamburguesa de pollo",
+				"description": "Salsa de datiles, queso cheddar, vegetales.",
+				"price": 420
+			},
+			{
+				"name": "Bacon chess burgers",
+				"description": "Carne, vegetales, queso, tocineta.",
+				"price": 370
+			},
+			{
+				"name": "Hamburguesa tradicional",
+				"description": "Hamburguesa tradicional.",
+				"price": 345
+			}
+		]
+	},
+	{
+		"id": 7,
+		"slug": "Caldos y Crema",
+		"prettyName": "Caldos y Crema",
+		"description": "Enjoy our freshly baked pizzas with a variety of toppings.",
+		"plates": [
+		
+			{
+				"name": "Cazuela de mariscos",
+				"description": "Cazuela de mariscos.",
+				"price": 950
+			}
+			
+		]
+	},
+	{
+		"id": 8,
+		"slug": "Pastas",
+		"prettyName": "Pastas",
+		"description": "Discover our chef's special creations for the day.",
+		"plates": [
+			{
+				"name": "Con camarones",
+				"description": "",
+				"price": 695
+			},
+			{
+				"name": "Con pollo",
+				"description": "",
+				"price": 500
+			},
+			{
+				"name": "Pulpo",
+				"description": "",
+				"price": 700
+			},
+			{
+				"name": "Boloñesa",
+				"description": "",
+				"price": 475
+			},
+			{
+				"name": "Pasta Pomodoro",
+				"description": "",
+				"price": 395
+			},
+			{
+				"name": "Pasta Pesto",
+				"description": "",
+				"price": 525
+			},
+			{
+				"name": "Pasta Carbonara",
+				"description": "",
+				"price": 530
+			},
+			{
+				"name": "Pasta mixta",
+				"description": "",
+				"price": 695
+			},
+			{
+				"name": "Pasta al óleo",
+				"description": "",
+				"price": 390
+			},
+			{
+				"name": "Gnocchi chrurrasco",
+				"description": "Churrasco, salsa de la casa.",
+				"price": 680
+			}
+		]
+	},
+	{
+		"id": 9,
+		"slug": "Mofongo",
+		"prettyName": "Mofongo",
+		"description": "Delicious and fun meals for our younger guests.",
+		"plates": [
+			{
+				"name": "El abusador 89",
+				"description": "plátano maduro, salsa de hongos, chicharrón.",
+				"price": 675
+			},
+			{
+				"name": "Camarones (a la crema, criolla o al ajillo)",
+				"description": "plátano verde, plátano maduro o yuca.",
+				"price": 675
+			},
+			{
+				"name": "Mofongo tradicional",
+				"description": "plátano, chicharrón, salsa de ajo, pico de gallo.",
+				"price": 610
+			},
+			{
+				"name": "El niño de la casa",
+				"description": "Yuca, camaron, queso y pork belly.",
+				"price": 535
+			},
+			{
+				"name": "Mofongo de churrasco",
+				"description": "Churrasco corte juliana, caldito de la casa.",
+				"price": 785
+			}
+		]
+	},
+	{
+		"id": 10,
+		"slug": "Guarniciones",
+		"prettyName": "Guarniciones",
+		"description": "End your meal with one of our sweet and delightful desserts.",
+		"plates": [
+			{
+				"name": "Tostones verde",
+				"description": "",
+				"price": 125
+			},
+			{
+				"name": "Tostones maduros",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Papa francesa",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Papa sazonada",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Papa salteadas",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Yuca crocante",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Yuca mash",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Ensalada verde",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Aguacate",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Pure de papa",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Vegetales al grill",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Vegetales salteado",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Arroz blanco",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "plátano asado",
+				"description": "",
+				"price": 130
+			},
+			{
+				"name": "Focaccia",
+				"description": "",
+				"price": 130
+			}
+		]
+	},
+	{
+		"id": 11,
+		"slug": "KID'S MENU",
+		"prettyName": "KID'S MENU",
+		"description": "Refresh yourself with our selection of drinks.",
+		"plates": [
+			{
+				"name": "Mac and cheese",
+				"description": " ",
+				"price": 200
+			},
+			{
+				"name": "Mini hamburguesa",
+				"description": " ",
+				"price": 250
+			},
+			{
+				"name": "Pechurinas",
+				"description": " ",
+				"price": 250
+			},
+			{
+				"name": "Batonsito de pescado",
+				"description": " ",
+				"price": 350
+			},
+			{
+				"name": "Salchi papa",
+				"description": " ",
+				"price": 350
+			}
+		]
+	},
+	{
+		"id": 12,
+		"slug": "Postres",
+		"prettyName": "Postres",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Cheesecake",
+				"description": " ",
+				"price": 350
+			},
+			{
+				"name": "Brownie a la moda",
+				"description": " ",
+				"price": 325
+			},
+			{
+				"name": "Pudin de pan",
+				"description": " ",
+				"price": 315
+			},
+			{
+				"name": "Coco 89",
+				"description": " ",
+				"price": 320
+			},
+			{
+				"name": "Copa de helado",
+				"description": " ",
+				"price": 275
+			}
+		]
+	},
+	{
+		"id": 13,
+		"slug": "Cervezas",
+		"prettyName": "Cervezas",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Presidente normal",
+				"description": " ",
+				"price": 230
+			},
+			{
+				"name": "Presidente light",
+				"description": " ",
+				"price": 230
+			},
+			{
+				"name": "Corona",
+				"description": " ",
+				"price": 230
+			},
+			{
+				"name": "Modelo Negra",
+				"description": " ",
+				"price": 230
+			},
+			{
+				"name": "Modelo rubia",
+				"description": "",
+				"price": 230
+			},
+			{
+				"name": "Smirnoff Ice Manzana",
+				"description": "",
+				"price": 240
+			},
+			{
+				"name": "Smirnoff Ice Manzana",
+				"description": "",
+				"price": 240
+			},
+			{
+				"name": "Smirnoff Ice original",
+				"description": "",
+				"price": 240
+			},
+			{
+				"name": "República",
+				"description": "",
+				"price": 180
+			},
+			{
+				"name": "The One",
+				"description": "",
+				"price": 150
+			},
+			{
+				"name": "Miller",
+				"description": "",
+				"price": 200
+			},
+			{
+				"name": "Heineken",
+				"description": "",
+				"price": 215
+			},
+			{
+				"name": "Stella Artois",
+				"description": "",
+				"price": 230
+			},
+			{
+				"name": "Blue Moon",
+				"description": "",
+				"price": 230
+			},
+			{
+				"name": "Budweiser",
+				"description": "",
+				"price": 230
+			}
+		]
+	},
+	{
+		"id": 14,
+		"slug": "Café",
+		"prettyName": "Café",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Capuchino americano",
+				"description": " ",
+				"price": 125
+			},
+			{
+				"name": "Capuchino italiano",
+				"description": " ",
+				"price": 100
+			},
+			{
+				"name": "Moca chino",
+				"description": " ",
+				"price": 130
+			},
+			{
+				"name": "Café con leche",
+				"description": " ",
+				"price": 90
+			},
+			{
+				"name": "Cortadito",
+				"description": "",
+				"price": 75
+			},
+			{
+				"name": "Espresso",
+				"description": "",
+				"price": 75
+			},
+			{
+				"name": "Espresso doble",
+				"description": "",
+				"price": 85
+			},
+			{
+				"name": "Carajillo",
+				"description": "",
+				"price": 200
+			},
+			{
+				"name": "Ice coffee",
+				"description": "",
+				"price": 200
+			}
+		]
+	},
+	{
+		"id": 15,
+		"slug": "Té",
+		"prettyName": "Té",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Té verde",
+				"description": " ",
+				"price": 95
+			},
+			{
+				"name": "Té de manzanilla",
+				"description": " ",
+				"price": 95
+			},
+			{
+				"name": "Té de limon y jengibre",
+				"description": " ",
+				"price": 95
+			},
+			{
+				"name": "Té de menta",
+				"description": " ",
+				"price": 95
+			},
+			{
+				"name": "Té de frutas",
+				"description": " ",
+				"price": 95
+			}
+		]
+	},
+	{
+		"id": 16,
+		"slug": "Tragos",
+		"prettyName": "Tragos",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Johnnie etiqueta negra",
+				"description": "",
+				"price": 350
+			},
+			{
+				"name": "Johnnie doble black",
+				"description": "",
+				"price": 389
+			},
+			{
+				"name": "Johnnie Gold label",
+				"description": "",
+				"price": 450
+			},
+			{
+				"name": "Johnnie etiqueta verde",
+				"description": "",
+				"price": 498
+			},
+			{
+				"name": "Old parr",
+				"description": "",
+				"price": 350
+			},
+			{
+				"name": "Buchanan",
+				"description": "",
+				"price": 325
+			},
+			{
+				"name": "Chiva Regal",
+				"description": "",
+				"price": 325
+			},
+			{
+				"name": "Brugal Doble Reserva",
+				"description": "",
+				"price": 250
+			},
+			{
+				"name": "Brugal extra viejo",
+				"description": "",
+				"price": 250
+			},
+			{
+				"name": "Brugal leyenda",
+				"description": "",
+				"price": 250
+			},
+			{
+				"name": "Barceló imperial",
+				"description": "",
+				"price": 250
+			},
+			{
+				"name": "Ron Zacapa",
+				"description": "",
+				"price": 325
+			},
+			{
+				"name": "Tequila Casamigos",
+				"description": "",
+				"price": 400
+			},
+			{
+				"name": "Tequila Teremana",
+				"description": "",
+				"price": 425
+			},
+			{
+				"name": "Tequila Don Julio 70",
+				"description": "",
+				"price": 550
+			},
+			{
+				"name": "Tequila Patron Reposado",
+				"description": "",
+				"price": 475
+			},
+			{
+				"name": "Tequila Don Julio Añejo",
+				"description": "",
+				"price": 575
+			},
+			{
+				"name": "Vodka Grey Goose",
+				"description": "",
+				"price": 300
+			},
+			{
+				"name": "Vodka Stolichnaya",
+				"description": "",
+				"price":289
+			},
+			{
+				"name": "Vodka Tito´s",
+				"description": "",
+				"price": 275
+			}
+		]
+	},
+	{
+		"id": 17,
+		"slug": "Digestivo",
+		"prettyName": "Digestivo",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Frangelico",
+				"description": " ",
+				"price": 225
+			},
+			{
+				"name": "Zambuca",
+				"description": " ",
+				"price": 240
+			},
+			{
+				"name": "Amaro Averna",
+				"description": " ",
+				"price": 210
+			},
+			{
+				"name": "Limoncello",
+				"description": " ",
+				"price": 230
+			},
+			{
+				"name": "Bailey´s",
+				"description": " ",
+				"price": 225
+			}
+		]
+	},
+	{
+		"id": 18,
+		"slug": "Vinos por copa",
+		"prettyName": "Vinos por copa",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Beringer Cabernet Sauvignon",
+				"description": "",
+				"price": 350
+			},
+			{
+				"name": "Glorioso",
+				"description": "",
+				"price": 350
+			},
+			{
+				"name": "Frontera sweet red",
+				"description": "Sparkling wine from Veneto.",
+				"price": 350
+			},
+			{
+				"name": "Beringer Pino Grigio",
+				"description": "",
+				"price": 350
+			},
+			{
+				"name": "Viña Maipo",
+				"description": "",
+				"price": 300
+			},
+			{
+				"name": "Beringer White Zinfandel",
+				"description": "",
+				"price": 300
+			},
+			{
+				"name": "Jp Chenet",
+				"description": "",
+				"price": 250
+			},
+			{
+				"name": "Segura Viuda Cava",
+				"description": "",
+				"price": 300
+			},
+			{
+				"name": "Espumante sin alcohol",
+				"description": "",
+				"price": 220
+			}
+		]
+	},
+	{
+		"id": 19,
+		"slug": "Vinos por Botella",
+		"prettyName": "Vinos por Botella",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "beringer Cabernet Sauvignon (Tinto)",
+				"description": "",
+				"price": 1700
+			},
+			{
+				"name": "Frontera Sweet Red (Tinto)",
+				"description": "",
+				"price": 1700
+			},
+			{
+				"name": "Glorioso (Tinto)",
+				"description": ".",
+				"price": 1700
+			},
+			{
+				"name": "Protos Tempranillo (Tinto)",
+				"description": "",
+				"price": 2000
+			},
+			{
+				"name": "Six Eight nine (Tinto)",
+				"description": "",
+				"price": 2400
+			},
+			{
+				"name": "19 Crimes (Tinto)",
+				"description": "",
+				"price": 2500
+			},
+			{
+				"name": "Decoy Red (Tinto)",
+				"description": "",
+				"price": 3250
+			},
+			{
+				"name": "Emlimio Moro (Tinto)",
+				"description": "",
+				"price": 2989
+			},
+			{
+				"name": "Bogle Essential Red (Tinto)",
+				"description": "",
+				"price": 2275
+			},
+			{
+				"name": "Marques de Riscal Reserva (Tinto)",
+				"description": "",
+				"price": 2000
+			}
+		]
+	},
+	{
+		"id": 20,
+		"slug": "Vinos por Botella (Blanco)",
+		"prettyName": "Vinos por Botella (Blanco)",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Beringer Pinot Grigio (Blanco)",
+				"description": "",
+				"price": 1200
+			},
+			{
+				"name": "Villa Maipo (Blanco)",
+				"description": "",
+				"price": 1200
+			},
+			{
+				"name": "Beringer White Zinfandel (Blanco)",
+				"description": ".",
+				"price": 1200
+			},
+			{
+				"name": "Marques de Riscal (Blanco)",
+				"description": "",
+				"price": 1890
+			},
+			{
+				"name": "Don Pefro D Soutomaior (Blanco)",
+				"description": "",
+				"price": 2450
+			},
+			{
+				"name": "Protos Verdejo (Blanco)",
+				"description": "",
+				"price": 2000
+			},
+			{
+				"name": "Jp Chenet (Blanco)",
+				"description": "",
+				"price": 1300
+			},
+			{
+				"name": "Segura Viuda Cava (Blanco)",
+				"description": "",
+				"price": 2000
+			},
+			{
+				"name": "Espumante sin alcohol (Blanco)",
+				"description": "",
+				"price": 1000
+			}
+		]
+	},
+	{
+		"id": 21,
+		"slug": "Agua",
+		"prettyName": "Agua",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Agua natural",
+				"description": " ",
+				"price": 90
+			},
+			{
+				"name": "Agua Perrier Peque",
+				"description": " ",
+				"price": 100
+			},
+			{
+				"name": "Agua S. Pellegrino 1L",
+				"description": " ",
+				"price": 340
+			}
+		]
+	},
+	{
+		"id": 22,
+		"slug": "Jugos y Batidas",
+		"prettyName": "Jugos y Batidas",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Limonada",
+				"description": " ",
+				"price": 150
+			},
+			{
+				"name": "Limonada con menta",
+				"description": " ",
+				"price": 225
+			},
+			{
+				"name": "Cereza",
+				"description": " ",
+				"price": 150
+			},
+			{
+				"name": "Chinola",
+				"description": " ",
+				"price": 150
+			},
+			{
+				"name": "Fresa",
+				"description": "",
+				"price":150
+			},
+			{
+				"name": "Batida de chinola",
+				"description": "",
+				"price": 230
+			},
+			{
+				"name": "Batida de fresa",
+				"description": "",
+				"price": 230
+			},
+			{
+				"name": "Batida de cereza",
+				"description": "",
+				"price": 230
+			},
+			{
+				"name": "Morir soñando",
+				"description": "",
+				"price": 240
+			}
+		]
+	},
+	{
+		"id": 23,
+		"slug": "Soda y Refresco",
+		"prettyName": "Soda y Refresco",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Coca cola",
+				"description": " ",
+				"price": 125
+			},
+			{
+				"name": "SevenUp",
+				"description": "",
+				"price": 125
+			},
+			{
+				"name": "Contri Club",
+				"description": " ",
+				"price": 125
+			},
+			{
+				"name": "Soda Amarga",
+				"description": " ",
+				"price": 125
+			},
+			{
+				"name": "Agua Tonica",
+				"description": "",
+				"price": 125
+			}
+		]
+	},
+	{
+		"id": 24,
+		"slug": "De la casa",
+		"prettyName": "De la casa",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Pasión 89",
+				"description": "Fresa, stGerman, ginebra.",
+				"price": 350
+			},
+			{
+				"name": "Laguna 89",
+				"description": "Limón, blue Curaçao, vodka.",
+				"price": 350
+			},
+			{
+				"name": "Lolita 89",
+				"description": "Piña, tequila, Tajin, sirope simple.",
+				"price": 350
+			},
+			{
+				"name": "Seduccion 89",
+				"description": "Piña, trajin, tequila, limon, sirope simple.",
+				"price": 300
+			},
+			{
+				"name": "El fenix 89",
+				"description": "Sirope de canela, vodka, naranja, granadina",
+				"price": 300
+			},
+			{
+				"name": "Blanca nieve 89",
+				"description": "Leche condensada, ron blanco, fresa, crema chantiyi",
+				"price": 350
+			},
+			{
+				"name": "El volcán 89",
+				"description": "Vodka, tequila, ron blanco, soda, granadina, humo sirop de stroberr",
+				"price": 400
+			},
+			{
+				"name": "Kansa city",
+				"description": "Sambuca, blue Curaçao",
+				"price": 285
+			},
+			{
+				"name": "Jamaica",
+				"description": "Flor de jamaica, piña, tequila, burbujas",
+				"price": 325
+			}
+		]
+	},
+	{
+		"id": 25,
+		"slug": "Cocteles sin alcohol",
+		"prettyName": "Cocteles sin alcohol",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Banana summer",
+				"description": "Banana, piña, limon, leche.",
+				"price": 215
+			},
+			{
+				"name": "Mint tonic",
+				"description": "Tonica, menta, limon.",
+				"price": 215
+			},
+			{
+				"name": "Fresh up tropical",
+				"description": "Piña, granadina, naranja.",
+				"price": 215
+			},
+			{
+				"name": "San Francisco",
+				"description": "Frutas tropicales, granadina.",
+				"price": 215
+			},
+			{
+				"name": "Amarte de noche",
+				"description": "Nectar de chinola, cereza, tónica",
+				"price": 215
+			},
+			{
+				"name": "Belen en primavera",
+				"description": "Jarabe de almendra, naranja, limon, melocotón",
+				"price":215
+			},
+			{
+				"name": "Scarlett Dream",
+				"description": "Lima, frambuesa, sirope",
+				"price":215
+			},
+			{
+				"name": "Perla Rosa",
+				"description": "Pomelo, lima sirope",
+				"price":215
+			}
+		]
+	},
+	{
+		"id": 26,
+		"slug": "Cocteles",
+		"prettyName": "Cocteles",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Cosmopolitan",
+				"description": " ",
+				"price": 295
+			},
+			{
+				"name": "Daiquiri de limon",
+				"description": " ",
+				"price": 300
+			},
+			{
+				"name": "Daiquiri de fresa",
+				"description": " ",
+				"price": 300
+			},
+			{
+				"name": "Daiquiri de chinola",
+				"description": " ",
+				"price": 300
+			},
+			{
+				"name": "Lychee Sour",
+				"description": "",
+				"price": 325
+			},
+			{
+				"name": "Pisco Sour",
+				"description": "",
+				"price": 315
+			}
+		]
+	},
+	{
+		"id": 27,
+		"slug": "Tradicional",
+		"prettyName": "Tradicional",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Mojito de limon",
+				"description": " ",
+				"price": 300
+			},
+			{
+				"name": "Mojito de Chinola",
+				"description": " ",
+				"price": 300
+			},
+			{
+				"name": "Mojito de Fresa",
+				"description": " ",
+				"price": 300
+			},
+			{
+				"name": "Mojito de Coco",
+				"description": " ",
+				"price": 300
+			},
+			{
+				"name": "Mojito Blue",
+				"description": "",
+				"price": 350
+			}
+		]
+	},
+	{
+		"id": 28,
+		"slug": "Margaritas",
+		"prettyName": "Margaritas",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Margarita de Limón",
+				"description": " ",
+				"price": 389
+			},
+			{
+				"name": "Margarita de Chinola",
+				"description": " ",
+				"price": 389
+			},
+			{
+				"name": "Margarita de Fresa",
+				"description": " ",
+				"price": 389
+			},
+			{
+				"name": "Margarita de Tamarindo",
+				"description": " ",
+				"price": 389
+			},
+			{
+				"name": "Margarita de Mango",
+				"description": "",
+				"price": 389
+			},
+			{
+				"name": "Margarita de Coco",
+				"description": "",
+				"price": 389
+			},
+			{
+				"name": "Margarita Coronada",
+				"description": "",
+				"price": 490
+			},
+			{
+				"name": "Margarita Blue",
+				"description": "",
+				"price": 300
+			}
+		]
+	},
+	{
+		"id": 29,
+		"slug": "Sangrías",
+		"prettyName": "Sangrías",
+		"description": "Choose from our curated list of fine wines.",
+		"plates": [
+			{
+				"name": "Sangría tinta",
+				"description": "",
+				"price": 350
+			},
+			{
+				"name": "Sangría Blanca",
+				"description": "Crisp and refreshing white wine.",
+				"price": 350
+			},
+			{
+				"name": "Sangría Rosada",
+				"description": "Sparkling wine from Veneto.",
+				"price":350
+			},
+			{
+				"name": "Sangría Blue",
+				"description": "Full-bodied red wine from Piedmont.",
+				"price": 350
+			},
+			{
+				"name": "Long Island Ice tea",
+				"description": "Vodka, tequila, ron, ginebra, soda, limon sirope",
+				"price": 325
+			},
+			{
+				"name": "Sex On The Beach",
+				"description": "Naranja, sirope, vodka, granadinas",
+				"price": 325
+			},
+			{
+				"name": "Cuba Libre",
+				"description": "Ron, coca cola, limon",
+				"price": 350
+			},
+			{
+				"name": "Piña Colada",
+				"description": "Con o sin alcohon",
+				"price": 300
+			},
+			{
+				"name": "Mai tai",
+				"description": "Ron, arandano, naranja, tripe c",
+				"price": 350
+			},
+			{
+				"name": "Appletini",
+				"description": "Licor de manzana, ginebra, vermouth",
+				"price": 400
+			},
+			{
+				"name": "Aperol spritz",
+				"description": "Aperol, soda",
+				"price": 285
+			},
+			{
+				"name": "Ruso martini",
+				"description": "Vodka, martini",
+				"price": 235
+			},
+			{
+				"name": "Mimosa",
+				"description": "Spumante, jugo de naranja",
+				"price": 200
+			},
+			{
+				"name": "Moscow mule",
+				"description": "Jengibre, limon, vodka",
+				"price": 385
+			}
+		]
+	}
+]
