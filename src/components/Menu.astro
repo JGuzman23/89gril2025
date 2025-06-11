@@ -33,7 +33,7 @@ const siteLangFormat = siteLang.replace("_", "-");
 		plates.map((plate) => (
 			<div id={plate.data.slug} class="space-y-16 scroll-mt-20" data-category-section={plate.data.slug}>
 				<div class="flex flex-col items-center gap-2 max-w-lg mx-auto text-balance text-center">
-					<h3 class="h4 text-brand-red/70">{plate.data.prettyName}</h3>
+					<h3 class="h4 text-brand-green">{plate.data.prettyName}</h3>
 					<p>{plate.data.description}</p>
 				</div>
 
@@ -44,7 +44,7 @@ const siteLangFormat = siteLang.replace("_", "-");
 								<dt>
 									<div class="flex justify-between items-center">
 										<span class="font-bold text-2xl tracking-wide">{item.name}</span>
-										<span class="font-medium text-lg">
+										<span style="color: #157F71;" class="font-medium  text-lg">
 											{new Intl.NumberFormat(siteLangFormat, {
 												style: "currency",
 												currency: siteCurrency,

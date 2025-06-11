@@ -3,7 +3,7 @@
 		"id": 1,
 		"slug": "Entradas",
 		"prettyName": "Entradas",
-		"description": "",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Dip de espinaca",
@@ -84,7 +84,7 @@
 		"id": 2,
 		"slug": "Carnes",
 		"prettyName": "Carnes",
-		"description": "Fresh and healthy salads made with seasonal ingredients.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Churrasco angus",
@@ -162,7 +162,7 @@
 		"id": 3,
 		"slug": "Parrillada",
 		"prettyName": "Parrillada",
-		"description": "Warm up with one of our delicious soups.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Mar y tierra para dos (2)",
@@ -238,7 +238,7 @@
 		"id": 5,
 		"slug": "Paellas y arroz",
 		"prettyName": "Paellas y arroz",
-		"description": "Indulge in our hearty and satisfying main courses.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Paella de marisco para 2",
@@ -276,7 +276,7 @@
 		"id": 6,
 		"slug": "Hamburguesas",
 		"prettyName": "Hamburguesas",
-		"description": "Complement your meal with our delightful side dishes.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Hamburguesa 89",
@@ -309,7 +309,7 @@
 		"id": 7,
 		"slug": "Caldos y Crema",
 		"prettyName": "Caldos y Crema",
-		"description": "Enjoy our freshly baked pizzas with a variety of toppings.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 		
 			{
@@ -324,7 +324,7 @@
 		"id": 8,
 		"slug": "Pastas",
 		"prettyName": "Pastas",
-		"description": "Discover our chef's special creations for the day.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Con camarones",
@@ -382,7 +382,7 @@
 		"id": 9,
 		"slug": "Mofongo",
 		"prettyName": "Mofongo",
-		"description": "Delicious and fun meals for our younger guests.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "El abusador 89",
@@ -415,7 +415,7 @@
 		"id": 10,
 		"slug": "Guarniciones",
 		"prettyName": "Guarniciones",
-		"description": "End your meal with one of our sweet and delightful desserts.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Tostones verde",
@@ -498,7 +498,7 @@
 		"id": 11,
 		"slug": "KID'S MENU",
 		"prettyName": "KID'S MENU",
-		"description": "Refresh yourself with our selection of drinks.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Mac and cheese",
@@ -531,7 +531,7 @@
 		"id": 12,
 		"slug": "Postres",
 		"prettyName": "Postres",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Cheesecake",
@@ -564,7 +564,7 @@
 		"id": 13,
 		"slug": "Cervezas",
 		"prettyName": "Cervezas",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Presidente normal",
@@ -647,7 +647,7 @@
 		"id": 14,
 		"slug": "Café",
 		"prettyName": "Café",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Capuchino americano",
@@ -700,7 +700,7 @@
 		"id": 15,
 		"slug": "Té",
 		"prettyName": "Té",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Té verde",
@@ -733,7 +733,7 @@
 		"id": 16,
 		"slug": "Tragos",
 		"prettyName": "Tragos",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Johnnie etiqueta negra",
@@ -841,7 +841,7 @@
 		"id": 17,
 		"slug": "Digestivo",
 		"prettyName": "Digestivo",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Frangelico",
@@ -874,7 +874,7 @@
 		"id": 18,
 		"slug": "Vinos por copa",
 		"prettyName": "Vinos por copa",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Beringer Cabernet Sauvignon",
@@ -927,7 +927,7 @@
 		"id": 19,
 		"slug": "Vinos por Botella",
 		"prettyName": "Vinos por Botella",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "beringer Cabernet Sauvignon (Tinto)",
@@ -985,7 +985,7 @@
 		"id": 20,
 		"slug": "Vinos por Botella (Blanco)",
 		"prettyName": "Vinos por Botella (Blanco)",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Beringer Pinot Grigio (Blanco)",
@@ -1038,7 +1038,7 @@
 		"id": 21,
 		"slug": "Agua",
 		"prettyName": "Agua",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Agua natural",
@@ -1061,7 +1061,7 @@
 		"id": 22,
 		"slug": "Jugos y Batidas",
 		"prettyName": "Jugos y Batidas",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Limonada",
@@ -1114,7 +1114,7 @@
 		"id": 23,
 		"slug": "Soda y Refresco",
 		"prettyName": "Soda y Refresco",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Coca cola",
@@ -1147,7 +1147,7 @@
 		"id": 24,
 		"slug": "De la casa",
 		"prettyName": "De la casa",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Pasión 89",
@@ -1200,7 +1200,7 @@
 		"id": 25,
 		"slug": "Cocteles sin alcohol",
 		"prettyName": "Cocteles sin alcohol",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Banana summer",
@@ -1248,7 +1248,7 @@
 		"id": 26,
 		"slug": "Cocteles",
 		"prettyName": "Cocteles",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Cosmopolitan",
@@ -1286,7 +1286,7 @@
 		"id": 27,
 		"slug": "Tradicional",
 		"prettyName": "Tradicional",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Mojito de limon",
@@ -1319,7 +1319,7 @@
 		"id": 28,
 		"slug": "Margaritas",
 		"prettyName": "Margaritas",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Margarita de Limón",
@@ -1367,7 +1367,7 @@
 		"id": 29,
 		"slug": "Sangrías",
 		"prettyName": "Sangrías",
-		"description": "Choose from our curated list of fine wines.",
+		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
 				"name": "Sangría tinta",
