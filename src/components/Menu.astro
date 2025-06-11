@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import images from "~/assets/images/89-grill-&-terraza.png";
+import images from "~/assets/images/te.jpg";
 
 import { siteLang, siteCurrency } from "~/data/config";
 const plates = await getCollection("plates");
@@ -46,7 +46,7 @@ import { Picture } from "astro:assets";
 
         <Picture
           class:list={"mx-auto  w-full h-[200px] object-fill "}
-          src={`/src${plate.data.img}`}
+          src={`${plate.data.img}`}
           width={200}
           height={60}
           formats={["avif", "webp"]}
