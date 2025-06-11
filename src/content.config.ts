@@ -7,6 +7,7 @@ const plates = defineCollection({
 		slug: z.string(),
 		prettyName: z.string(),
 		description: z.string(),
+		img:z.string(),
 		plates: z.array(
 			z.object({
 				name: z.string(),

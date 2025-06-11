@@ -4,6 +4,7 @@
 		"slug": "Entradas",
 		"prettyName": "Entradas",
 		"description": "*Impuestos no Incluidos*",
+		"img":"/assets/platosImg/entrada.jpg",
 		"plates": [
 			{
 				"name": "Dip de espinaca",
@@ -84,6 +85,7 @@
 		"id": 2,
 		"slug": "Carnes",
 		"prettyName": "Carnes",
+		"img":"/assets/platosImg/carnes.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -162,6 +164,7 @@
 		"id": 3,
 		"slug": "Parrillada",
 		"prettyName": "Parrillada",
+		"img":"/assets/platosImg/parrillada.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -185,6 +188,7 @@
 		"id": 4,
 		"slug": "Pescados y mariscos",
 		"prettyName": "Pescados y mariscos",
+		"img":"/assets/platosImg/mariscos.jpg",
 		"description": "Savor the flavors of our exquisite first courses.",
 		"plates": [
 			{
@@ -238,6 +242,7 @@
 		"id": 5,
 		"slug": "Paellas y arroz",
 		"prettyName": "Paellas y arroz",
+		"img":"/assets/platosImg/paella.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -276,6 +281,7 @@
 		"id": 6,
 		"slug": "Hamburguesas",
 		"prettyName": "Hamburguesas",
+		"img":"/assets/platosImg/hamburguesa.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -309,6 +315,7 @@
 		"id": 7,
 		"slug": "Caldos y Crema",
 		"prettyName": "Caldos y Crema",
+		"img":"/assets/platosImg/caldos.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 		
@@ -324,6 +331,7 @@
 		"id": 8,
 		"slug": "Pastas",
 		"prettyName": "Pastas",
+		"img":"/assets/platosImg/pastas.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -382,6 +390,7 @@
 		"id": 9,
 		"slug": "Mofongo",
 		"prettyName": "Mofongo",
+		"img":"/assets/platosImg/mofongo.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -415,6 +424,7 @@
 		"id": 10,
 		"slug": "Guarniciones",
 		"prettyName": "Guarniciones",
+		"img":"/assets/platosImg/guarnicion.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -498,6 +508,7 @@
 		"id": 11,
 		"slug": "KID'S MENU",
 		"prettyName": "KID'S MENU",
+		"img":"/assets/platosImg/kid.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -530,6 +541,7 @@
 	{
 		"id": 12,
 		"slug": "Postres",
+		"img":"/assets/platosImg/postre.jpg",
 		"prettyName": "Postres",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
@@ -564,6 +576,7 @@
 		"id": 13,
 		"slug": "Cervezas",
 		"prettyName": "Cervezas",
+		"img":"/assets/platosImg/cerveza.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -647,6 +660,7 @@
 		"id": 14,
 		"slug": "Café",
 		"prettyName": "Café",
+		"img":"/assets/platosImg/caffe.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -700,6 +714,7 @@
 		"id": 15,
 		"slug": "Té",
 		"prettyName": "Té",
+		"img":"/assets/platosImg/te.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -732,6 +747,7 @@
 	{
 		"id": 16,
 		"slug": "Tragos",
+		"img":"/assets/platosImg/rom.jpg",
 		"prettyName": "Tragos",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
@@ -840,6 +856,7 @@
 	{
 		"id": 17,
 		"slug": "Digestivo",
+		"img":"/assets/platosImg/digestivo.jpg",
 		"prettyName": "Digestivo",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
@@ -874,6 +891,7 @@
 		"id": 18,
 		"slug": "Vinos por copa",
 		"prettyName": "Vinos por copa",
+		"img":"/assets/platosImg/copa.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -926,6 +944,7 @@
 	{
 		"id": 19,
 		"slug": "Vinos por Botella",
+		"img":"/assets/platosImg/vinoTinto.jpg",
 		"prettyName": "Vinos por Botella",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
@@ -984,6 +1003,7 @@
 	{
 		"id": 20,
 		"slug": "Vinos por Botella (Blanco)",
+		"img":"/assets/platosImg/vinoRosa.jpg",
 		"prettyName": "Vinos por Botella (Blanco)",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
@@ -1037,6 +1057,7 @@
 	{
 		"id": 21,
 		"slug": "Agua",
+		"img":"/assets/platosImg/agua.jpg",
 		"prettyName": "Agua",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
@@ -1061,6 +1082,7 @@
 		"id": 22,
 		"slug": "Jugos y Batidas",
 		"prettyName": "Jugos y Batidas",
+		"img":"/assets/platosImg/jugo.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -1113,6 +1135,7 @@
 	{
 		"id": 23,
 		"slug": "Soda y Refresco",
+		"img":"/assets/platosImg/soda.jpg",
 		"prettyName": "Soda y Refresco",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
@@ -1147,6 +1170,7 @@
 		"id": 24,
 		"slug": "De la casa",
 		"prettyName": "De la casa",
+		"img":"/assets/platosImg/delacasa.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -1200,6 +1224,7 @@
 		"id": 25,
 		"slug": "Cocteles sin alcohol",
 		"prettyName": "Cocteles sin alcohol",
+		"img":"/assets/platosImg/coctelessa.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -1247,6 +1272,7 @@
 	{
 		"id": 26,
 		"slug": "Cocteles",
+		"img":"/assets/platosImg/cocteles.jpg",
 		"prettyName": "Cocteles",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
@@ -1285,6 +1311,7 @@
 	{
 		"id": 27,
 		"slug": "Tradicional",
+		"img":"/assets/platosImg/mojito.jpg",
 		"prettyName": "Tradicional",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
@@ -1319,6 +1346,7 @@
 		"id": 28,
 		"slug": "Margaritas",
 		"prettyName": "Margaritas",
+		"img":"/assets/platosImg/margarita.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
@@ -1367,6 +1395,7 @@
 		"id": 29,
 		"slug": "Sangrías",
 		"prettyName": "Sangrías",
+		"img":"/assets/platosImg/sangria.jpg",
 		"description": "*Impuestos no Incluidos*",
 		"plates": [
 			{
