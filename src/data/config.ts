@@ -1,8 +1,8 @@
 // Global variables
 export const siteLang = "en-US";
 export const siteCurrency = "USD";
-export const siteDomain = "astropie.com";
-export const siteName = "AstroPie";
+export const siteDomain = "menu89grill.countechrd.com";
+export const siteName = "89 Grill & Terraza";
 export const siteSlogan = "The best pies in the galaxy!";
 export const themeColor = "#FF0000";
 

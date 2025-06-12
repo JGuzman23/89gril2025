@@ -1,14 +1,14 @@
 export const menuMain = [
-    // {
-    //     name: "Home",
-    //     url: "/",
-    //     highlighted: false,
-    // },
     {
         name: "Menu",
-        url: "/menu",
+        url: "/",
         highlighted: false,
     },
+    // {
+    //     name: "Menu",
+    //     url: "/menu",
+    //     highlighted: false,
+    // },
     {
         name: "Sobre Nosotros",
         url: "/about-us",
@@ -19,11 +19,11 @@ export const menuMain = [
         url: "/gallery",
         highlighted: false,
     },
-    {
-        name: "Contacto",
-        url: "/contact",
-        highlighted: false,
-    },
+    // {
+    //     name: "Contacto",
+    //     url: "/contact",
+    //     highlighted: false,
+    // },
     {
         name: "Reserva Aqui",
         url: "/book",
