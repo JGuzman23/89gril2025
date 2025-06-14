@@ -197,7 +197,7 @@
 			{
 				"name": "Marisco para dos (2)",
 				"description": "Pulpo, langostino, camarones, mejillones, mulo de cangrejo, camalares.",
-				"price": 2350
+				"price": 2530
 			}
 		]
 	},
@@ -432,6 +432,31 @@
 				"price": 675
 			},
 			{
+				"name": "Mofongo de costilla",
+				"description": "",
+				"price": 650
+			},
+			{
+				"name": "Mofongo de pollo",
+				"description": "",
+				"price": 550
+			},
+			{
+				"name": "Mofongo mixto",
+				"description": "",
+				"price": 750
+			},
+			{
+				"name": "Mofongo spacy",
+				"description": "",
+				"price": 650
+			},
+			{
+				"name": "Mofongo para el coro",
+				"description": "",
+				"price": 1350
+			},
+			{
 				"name": "Camarones (a la crema, criolla o al ajillo)",
 				"description": "plátano verde, plátano maduro o yuca.",
 				"price": 675
@@ -602,6 +627,11 @@
 				"name": "Copa de helado",
 				"description": " ",
 				"price": 275
+			},
+			{
+				"name": "Frio Hot",
+				"description": " ",
+				"price": 385
 			}
 		]
 	},
@@ -915,6 +945,11 @@
 			},
 			{
 				"name": "Bailey´s",
+				"description": " ",
+				"price": 225
+			},
+			{
+				"name": "Cuántro",
 				"description": " ",
 				"price": 225
 			}
@@ -1338,6 +1373,16 @@
 				"name": "Pisco Sour",
 				"description": "",
 				"price": 315
+			},
+			{
+				"name": "Green Sharo 89",
+				"description": "",
+				"price": 389
+			},
+			{
+				"name": "jamaica",
+				"description": "",
+				"price": 400
 			}
 		]
 	},
