@@ -19,11 +19,11 @@ export const menuMain = [
         url: "/gallery",
         highlighted: false,
     },
-    // {
-    //     name: "Contacto",
-    //     url: "/contact",
-    //     highlighted: false,
-    // },
+    {
+        name: "Sugerencias",
+        url: "/contact",
+        highlighted: false,
+    },
     {
         name: "Reserva Aqui",
         url: "/book",

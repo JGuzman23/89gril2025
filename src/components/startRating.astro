@@ -1,0 +1,44 @@
+---
+// src/components/StarRating.astro
+const { maxStars = 5, rating = 0, name } = Astro.props;
+---
+
+<div class="star-rating" data-name={name}>
+  {Array.from({ length: maxStars }).map((_, i) => (
+    <span 
+    style="font-size: 35px;"
+      class={`star ${i < rating ? 'filled' : ''}`}
+      data-value={i + 1}
+    >★</span>
+  ))}
+  <input type="hidden" name={name} value={rating} />
+</div>
+
+<style>
+  .star-rating {
+    font-size: 1.5rem;
+    color: #ccc;
+    cursor: pointer;
+  }
+  .star-rating .star.filled {
+    color: red;
+  }
+</style>
+
+<script is:inline>
+  document.querySelectorAll('.star-rating').forEach(ratingEl => {
+    ratingEl.addEventListener('click', (e) => {
+      if (e.target.classList.contains('star')) {
+        const value = e.target.dataset.value;
+        const stars = ratingEl.querySelectorAll('.star');
+        
+        stars.forEach((star, i) => {
+          star.classList.toggle('filled', i < value);
+        });
+        
+        // Actualizar el input hidden
+        ratingEl.querySelector('input').value = value;
+      }
+    });
+  });
+</script>
