@@ -4,6 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import alpinejs from "@astrojs/alpinejs";
 import playformInline from "@playform/inline";
 import mdx from "@astrojs/mdx";
+import node from '@astrojs/node';
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,7 +18,10 @@ export default defineConfig({
 		}),
 		mdx(),
 	],
-	output: "static",
+	output: "server",
+	adapter: node({
+    mode: 'standalone' // o 'middleware' si usas Express
+  }),
 	devToolbar: {
 		enabled: false,
 	},
