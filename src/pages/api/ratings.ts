@@ -3,7 +3,7 @@ export const prerender = false;
 import type { APIRoute } from 'astro';
 import fs from 'fs/promises';
 import path from 'path';
-const filePath = path.resolve('import.meta.env.RATINGS_FILE_PATH');
+const filePath = path.resolve(import.meta.env.RATINGS_FILE_PATH);
 
 export const POST: APIRoute = async ({ request }) => {
   try {
