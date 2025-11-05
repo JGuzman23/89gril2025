@@ -78,6 +78,12 @@
 				"description": "Mejillones al grill, salsa 89.",
 				"price": 400
 			}
+			,
+			{
+				"name": "Croqueta de Salmón",
+				"description": "Rica croqueta crujiente con queso parmesano.",
+				"price": 400
+			}
 			
 		]
 	},
@@ -169,6 +175,12 @@
 				"description": "",
 				"price": 1500
 
+			},
+			{
+				"name": "Pechuga Napolitana",
+				"description": "Pechuga Milanésa, queso mozzarella y pomodoro",
+				"price": 850
+
 			}
 		]
 	},
@@ -214,7 +226,7 @@
 				"price": 975
 			},
 			{
-				"name": "Salmon al Grill",
+				"name": "Salmón al Grill",
 				"description": "Guarnición de su preferencia.",
 				"price": 890
 			},
@@ -258,6 +270,11 @@
 				"name": "lambí boca chica",
 				"description": "lambí.",
 				"price": 1150
+			},
+			{
+				"name": "Salmon a la naranja",
+				"description": "Rico filete al grill, salsa de naranja.",
+				"price": 800
 			}
 		]
 	},
@@ -416,6 +433,16 @@
 				"name": "Gnocchi chrurrasco",
 				"description": "Churrasco, salsa de la casa.",
 				"price": 680
+			},
+			{
+				"name": "Raviolis",
+				"description": "Relleno de queso y salsa pomodoro.",
+				"price": 400
+			},
+			{
+				"name": "Miguelina",
+				"description": "Fetuchini con hongos y lechuga a la plancha por encima",
+				"price": 790
 			}
 		]
 	},
@@ -632,6 +659,11 @@
 				"name": "Frio Hot",
 				"description": " ",
 				"price": 385
+			},
+			{
+				"name": "Pera al vino",
+				"description": "Rica pera marinada en vino con helado de vainilla",
+				"price": 350
 			}
 		]
 	},
