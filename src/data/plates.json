@@ -15,27 +15,27 @@
 			{
 				"name": "Taquitos de pollo",
 				"description": "3 Tortillas Mexicana y pollo",
-				"price": 330
+				"price": 385
 			},
 			{
 				"name": "Taquitos de res",
 				"description": "3 Tortillas Mexicana y res",
-				"price": 330
+				"price": 385
 			},
 			{
 				"name": "Taquitos de camarones",
 				"description": "3 Tortillas Mexicana y camarones.",
-				"price": 370
+				"price": 395
 			},
 			{
 				"name": "Taquitos mixto",
 				"description": "3 Tortillas Mexicana, pollo, res y camarones.",
-				"price": 375
+				"price": 395
 			},
 			{
 				"name": "Croqueta de costilla",
 				"description": "Carne tierna de cerdo, salsa blue ches.",
-				"price": 400
+				"price": 450
 			},
 			{
 				"name": "Tacos de birria",
@@ -46,32 +46,28 @@
 			{
 				"name": "Camarones durmientes",
 				"description": "Camarones, tocineta, salsa agridulce.",
-				"price": 390
+				"price": 490
 			}
 			,
 			{
 				"name": "Berenjena boloñesa",
 				"description": "Queso, berenjena.",
-				"price": 345
+				"price": 375
 			}
 			,
 			{
 				"name": "Canastica 89",
 				"description": "Plátanos, pollo, res, cerdo, camarones y pulpo.",
-				"price": 349
+				"price": 355
 			}
 			,
 			{
 				"name": "Alitas",
 				"description": "4 alitas salsa BBQ o al búfalo.",
-				"price": 235
+				"price": 245
 			}
-			,
-			{
-				"name": "Spring roll 89",
-				"description": "Masa egg rolls, pollo y salsa teriyaki.",
-				"price": 350
-			}
+			
+		
 			,
 			{
 				"name": "Mejillones al tiempo",
@@ -97,12 +93,12 @@
 			{
 				"name": "Churrasco angus",
 				"description": "corte angus 10 onza, yuca mash, vegetales salteado.",
-				"price": 1600
+				"price": 1780
 			},
 			{
 				"name": "Churrasco al maduro",
 				"description": "Churrasco 10 onz, plátano maduro, salsa de queso.",
-				"price": 1680
+				"price": 1800
 			},
 			{
 				"name": "Rib Eye 12 Onza",
@@ -116,7 +112,7 @@
 			},
 			{
 				"name": "Lomo Salteado",
-				"description": "Lomo, vegetales al vapor.",
+				"description": "Lomo y veguetales salteados.",
 				"price": 675
 			},
 			{
@@ -142,7 +138,7 @@
 			{
 				"name": "Costilla a la BBQ",
 				"description": "guarnición de su preferencia.",
-				"price": 725
+				"price": 800
 			},
 			{
 				"name": "Costilla de cordero",
@@ -247,11 +243,6 @@
 				"price": 1250
 			},
 			{
-				"name": "Lubina al vino",
-				"description": "Papas salteada, espárragos.",
-				"price": 1500
-			},
-			{
 				"name": "Camarones (A la crema, criolla o ajillo)",
 				"description": "Guarnición de su preferencia.",
 				"price": 615
@@ -266,11 +257,7 @@
 				"description": "camarones, pulpo, cilantro.",
 				"price": 780
 			},
-			{
-				"name": "lambí boca chica",
-				"description": "lambí.",
-				"price": 1150
-			},
+		
 			{
 				"name": "Salmon a la naranja",
 				"description": "Rico filete al grill, salsa de naranja.",
@@ -456,17 +443,17 @@
 			{
 				"name": "El abusador 89",
 				"description": "plátano maduro, salsa de hongos, chicharrón.",
-				"price": 675
+				"price": 725
 			},
 			{
 				"name": "Mofongo de costilla",
 				"description": "",
-				"price": 650
+				"price": 700
 			},
 			{
 				"name": "Mofongo de pollo",
 				"description": "",
-				"price": 550
+				"price": 650
 			},
 			{
 				"name": "Mofongo mixto",
@@ -476,7 +463,7 @@
 			{
 				"name": "Mofongo spacy",
 				"description": "",
-				"price": 650
+				"price": 750
 			},
 			{
 				"name": "Mofongo para el coro",
@@ -486,22 +473,22 @@
 			{
 				"name": "Camarones (a la crema, criolla o al ajillo)",
 				"description": "plátano verde, plátano maduro o yuca.",
-				"price": 675
+				"price": 750
 			},
 			{
 				"name": "Mofongo tradicional",
 				"description": "plátano, chicharrón, salsa de ajo, pico de gallo.",
-				"price": 610
+				"price": 700
 			},
 			{
 				"name": "El niño de la casa",
 				"description": "Yuca, camaron, queso y pork belly.",
-				"price": 535
+				"price": 600
 			},
 			{
 				"name": "Mofongo de churrasco",
 				"description": "Churrasco corte juliana, caldito de la casa.",
-				"price": 785
+				"price": 790
 			}
 		]
 	},
@@ -1462,42 +1449,42 @@
 			{
 				"name": "Margarita de Limón",
 				"description": " ",
-				"price": 389
+				"price": 398
 			},
 			{
 				"name": "Margarita de Chinola",
 				"description": " ",
-				"price": 389
+				"price": 398
 			},
 			{
 				"name": "Margarita de Fresa",
 				"description": " ",
-				"price": 389
+				"price": 398
 			},
 			{
 				"name": "Margarita de Tamarindo",
 				"description": " ",
-				"price": 389
+				"price": 398
 			},
 			{
 				"name": "Margarita de Mango",
 				"description": "",
-				"price": 389
+				"price": 398
 			},
 			{
 				"name": "Margarita de Coco",
 				"description": "",
-				"price": 389
+				"price": 398
 			},
 			{
 				"name": "Margarita Coronada",
 				"description": "",
-				"price": 490
+				"price": 398
 			},
 			{
 				"name": "Margarita Blue",
 				"description": "",
-				"price": 300
+				"price": 398
 			}
 		]
 	},
@@ -1511,22 +1498,22 @@
 			{
 				"name": "Sangría tinta",
 				"description": "",
-				"price": 350
+				"price": 390
 			},
 			{
 				"name": "Sangría Blanca",
 				"description": "Crisp and refreshing white wine.",
-				"price": 350
+				"price": 390
 			},
 			{
 				"name": "Sangría Rosada",
 				"description": "Sparkling wine from Veneto.",
-				"price":350
+				"price":390
 			},
 			{
 				"name": "Sangría Blue",
 				"description": "Full-bodied red wine from Piedmont.",
-				"price": 350
+				"price": 390
 			},
 			{
 				"name": "Long Island Ice tea",
