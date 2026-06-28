@@ -627,16 +627,7 @@
 				"description": " ",
 				"price": 325
 			},
-			{
-				"name": "Pudin de pan",
-				"description": " ",
-				"price": 315
-			},
-			{
-				"name": "Coco 89",
-				"description": " ",
-				"price": 320
-			},
+			
 			{
 				"name": "Copa de helado",
 				"description": " ",
@@ -1237,9 +1228,9 @@
 				"price": 125
 			},
 			{
-				"name": "Contri Club",
+				"name": "Miche Mouse",
 				"description": " ",
-				"price": 125
+				"price": 200
 			},
 			{
 				"name": "Soda Amarga",
@@ -1318,42 +1309,8 @@
 				"name": "Banana summer",
 				"description": "Banana, piña, limon, leche.",
 				"price": 215
-			},
-			{
-				"name": "Mint tonic",
-				"description": "Tonica, menta, limon.",
-				"price": 215
-			},
-			{
-				"name": "Fresh up tropical",
-				"description": "Piña, granadina, naranja.",
-				"price": 215
-			},
-			{
-				"name": "San Francisco",
-				"description": "Frutas tropicales, granadina.",
-				"price": 215
-			},
-			{
-				"name": "Amarte de noche",
-				"description": "Nectar de chinola, cereza, tónica",
-				"price": 215
-			},
-			{
-				"name": "Belen en primavera",
-				"description": "Jarabe de almendra, naranja, limon, melocotón",
-				"price":215
-			},
-			{
-				"name": "Scarlett Dream",
-				"description": "Lima, frambuesa, sirope",
-				"price":215
-			},
-			{
-				"name": "Perla Rosa",
-				"description": "Pomelo, lima sirope",
-				"price":215
 			}
+			
 		]
 	},
 	{
@@ -1388,11 +1345,7 @@
 				"description": "",
 				"price": 325
 			},
-			{
-				"name": "Pisco Sour",
-				"description": "",
-				"price": 315
-			},
+			
 			{
 				"name": "Green Sharo 89",
 				"description": "",
