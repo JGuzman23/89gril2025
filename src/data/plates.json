@@ -80,6 +80,12 @@
 				"description": "Rica croqueta crujiente con queso parmesano.",
 				"price": 400
 			}
+			,
+			{
+				"name": "DUMPLING DE CERDO",
+				"description": "Relleno de carne de cerdo , salsa de la casa.",
+				"price": 250
+			}
 			
 		]
 	},
