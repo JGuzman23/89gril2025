@@ -86,6 +86,12 @@
 				"description": "Relleno de carne de cerdo , salsa de la casa.",
 				"price": 250
 			}
+			,
+			{
+				"name": "Catibía",
+				"description": "",
+				"price": 398
+			}
 			
 		]
 	},
@@ -372,6 +378,42 @@
 	},
 	{
 		"id": 8,
+		"slug": "Ensaladas",
+		"prettyName": "Ensaladas",
+		"img":"/images/ensaladas.jpg",
+		"description": "*Impuestos no Incluidos*",
+		"plates": [
+		
+			{
+				"name": "César de Camarones",
+				"description": "",
+				"price": 495
+			},
+			{
+				"name": "César de Pollo",
+				"description": "",
+				"price": 385 
+			},
+			{
+				"name": "Ensalada de Salmón",
+				"description": "",
+				"price": 495
+			},
+			{
+				"name": "Ensalada de churrasco",
+				"description": "",
+				"price": 525
+			},
+			{
+				"name": "César natural",
+				"description": "",
+				"price": 300
+			}
+			
+		]
+	},
+	{
+		"id": 9,
 		"slug": "Pastas",
 		"prettyName": "Pastas",
 		"img":"/images/pastas.jpg",
@@ -440,7 +482,7 @@
 		]
 	},
 	{
-		"id": 9,
+		"id": 10,
 		"slug": "Mofongo",
 		"prettyName": "Mofongo",
 		"img":"/images/mofongo.jpg",
@@ -495,11 +537,16 @@
 				"name": "Mofongo de churrasco",
 				"description": "Churrasco corte juliana, caldito de la casa.",
 				"price": 790
+			},
+			{
+				"name": "Marifongo",
+				"description": "Contiene cola de langosta y camarones.",
+				"price": 1500
 			}
 		]
 	},
 	{
-		"id": 10,
+		"id": 11,
 		"slug": "Guarniciones",
 		"prettyName": "Guarniciones",
 		"img":"/images/guarnicion.jpg",
@@ -583,7 +630,7 @@
 		]
 	},
 	{
-		"id": 11,
+		"id": 12,
 		"slug": "KID'S MENU",
 		"prettyName": "KID'S MENU",
 		"img":"/images/kid.jpg",
@@ -617,7 +664,7 @@
 		]
 	},
 	{
-		"id": 12,
+		"id": 13,
 		"slug": "Postres",
 		"img":"/images/postre.jpg",
 		"prettyName": "Postres",
@@ -626,7 +673,7 @@
 			{
 				"name": "Cheesecake",
 				"description": " ",
-				"price": 350
+				"price": 400
 			},
 			{
 				"name": "Brownie a la moda",
@@ -652,7 +699,7 @@
 		]
 	},
 	{
-		"id": 13,
+		"id": 14,
 		"slug": "Cervezas",
 		"prettyName": "Cervezas",
 		"img":"/images/cerveza.jpg",
@@ -736,7 +783,7 @@
 		]
 	},
 	{
-		"id": 14,
+		"id": 15,
 		"slug": "Café",
 		"prettyName": "Café",
 		"img":"/images/caffe.jpg",
@@ -790,7 +837,7 @@
 		]
 	},
 	{
-		"id": 15,
+		"id": 16,
 		"slug": "Té",
 		"prettyName": "Té",
 		"img":"/images/te.jpg",
@@ -824,7 +871,7 @@
 		]
 	},
 	{
-		"id": 16,
+		"id": 17,
 		"slug": "Tragos",
 		"img":"/images/rom.jpg",
 		"prettyName": "Tragos",
@@ -933,7 +980,7 @@
 		]
 	},
 	{
-		"id": 17,
+		"id": 18,
 		"slug": "Digestivo",
 		"img":"/images/digestivo.jpg",
 		"prettyName": "Digestivo",
@@ -972,7 +1019,7 @@
 		]
 	},
 	{
-		"id": 18,
+		"id": 19,
 		"slug": "Vinos por copa",
 		"prettyName": "Vinos por copa",
 		"img":"/images/copa.jpg",
@@ -1026,7 +1073,7 @@
 		]
 	},
 	{
-		"id": 19,
+		"id": 20,
 		"slug": "Vinos por Botella",
 		"img":"/images/vinoTinto.jpg",
 		"prettyName": "Vinos por Botella",
@@ -1085,7 +1132,7 @@
 		]
 	},
 	{
-		"id": 20,
+		"id": 21,
 		"slug": "Vinos por Botella (Blanco)",
 		"img":"/images/vinoRosa.jpg",
 		"prettyName": "Vinos por Botella (Blanco)",
@@ -1139,7 +1186,7 @@
 		]
 	},
 	{
-		"id": 21,
+		"id": 22,
 		"slug": "Agua",
 		"img":"/images/agua.jpg",
 		"prettyName": "Agua",
@@ -1163,7 +1210,7 @@
 		]
 	},
 	{
-		"id": 22,
+		"id": 23,
 		"slug": "Jugos y Batidas",
 		"prettyName": "Jugos y Batidas",
 		"img":"/images/jugo.jpg",
@@ -1217,7 +1264,7 @@
 		]
 	},
 	{
-		"id": 23,
+		"id": 24,
 		"slug": "Soda y Refresco",
 		"img":"/images/soda.jpg",
 		"prettyName": "Soda y Refresco",
@@ -1251,7 +1298,7 @@
 		]
 	},
 	{
-		"id": 24,
+		"id": 25,
 		"slug": "De la casa",
 		"prettyName": "De la casa",
 		"img":"/images/delacasa.jpg",
@@ -1305,7 +1352,7 @@
 		]
 	},
 	{
-		"id": 25,
+		"id": 26,
 		"slug": "Cocteles sin alcohol",
 		"prettyName": "Cocteles sin alcohol",
 		"img":"/images/coctelessa.jpg",
@@ -1320,7 +1367,7 @@
 		]
 	},
 	{
-		"id": 26,
+		"id": 27,
 		"slug": "Cocteles",
 		"img":"/images/cocteles.jpg",
 		"prettyName": "Cocteles",
@@ -1365,7 +1412,7 @@
 		]
 	},
 	{
-		"id": 27,
+		"id": 28,
 		"slug": "Tradicional",
 		"img":"/images/mojitos.jpg",
 		"prettyName": "Tradicional",
@@ -1399,7 +1446,7 @@
 		]
 	},
 	{
-		"id": 28,
+		"id": 29,
 		"slug": "Margaritas",
 		"prettyName": "Margaritas",
 		"img":"/images/margarita.jpg",
@@ -1448,7 +1495,7 @@
 		]
 	},
 	{
-		"id": 29,
+		"id": 30,
 		"slug": "Sangrías",
 		"prettyName": "Sangrías",
 		"img":"/images/sangria.jpg",
